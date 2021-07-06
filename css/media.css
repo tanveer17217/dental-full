@@ -1,0 +1,1238 @@
+/**** Min-Width: 1441px and Max-Width: 2560px CSS ****/
+
+@media(min-width:1441px) and (max-width:2560px){
+    .doctors1 {
+        max-width: 25%;
+        left: 18%;
+    }
+    .slider_full{
+        min-height: 75vh;
+    }
+    .slider_full .owl-dots{
+        top: 140%;    
+    }
+}
+
+/**** Min-Width: 0px and Max-Width: 1440px CSS ****/
+
+@media(min-width:0px) and (max-width:1440px){
+    .doctors1 {
+        max-width: 40%;
+        left: 0%;
+    }
+    .slider_full .owl-dots{
+        top: 130%;    
+    }
+}
+
+/**** Min-Width: 0px and Max-Width: 1024px CSS ****/
+
+@media(min-width:0px) and (max-width:1024px){
+    .tfollow h3 {
+        font-size: 20px;
+    }
+    .social_signs li {
+        margin-left: 6px;
+        padding: 4px 10px;
+        background-color: #323232;
+    }
+    .clientdiv1 {
+        max-width: 130px;
+    }
+    .services {
+        padding: 15px 20px;
+        transition: 0.5s all ease-in-out;
+    }
+    .service1 h5{
+        transition: 0.5s all ease-in-out;
+    }
+    .service1:hover h5{
+        color: #f69165;
+    }
+    .dpa {
+        padding: 5% 0% 0%;
+    }
+    .doctors1 {
+        max-width: 50%;
+        left: -10%;
+    }
+    .row.align768 {
+        align-items: center;
+    }
+    header {
+        padding: 20px 0px;
+    }
+    header .header_contact h5 {
+        font-size: 11pt;
+    }
+    header .header_icon i {
+        font-size: 22px;
+        color: #F69165;
+    }
+    header .header_contact p {
+        font-size: 9pt;
+    }
+    li.nav-item {
+        font-size: 15px;
+    }
+    .appointment li {
+        transform: skew( 
+    15deg
+        , 
+    0deg
+        );
+        text-transform: uppercase;
+        font-size: 15px;
+    }
+    ul.appointment {
+        padding: 15px 25px;
+    }
+    .slider_left .btn-1 {
+        padding: 10px 20px;
+    }
+    .slider_left .btn-2 {
+        padding: 10px 20px;
+    }
+    .slider_full .owl-prev span {
+        padding: 0px 10px;
+        font-size: 35px;
+    }
+    .slider_full .owl-next span {
+        padding: 0px 10px;
+        font-size: 35px;
+    }
+    .service1 {
+        border-left: none;
+        border-bottom: 5px solid transparent;
+        transition: 1s all ease-in-out;
+        height: 85%;
+    }
+    .service1:hover {
+        border-left: none;
+        padding: 0;
+        border-bottom: 5px solid #f69165;
+    }
+    .follow_us {
+        display: inherit;
+    }
+    .follow_us_icons ul li:nth-child(1) {
+        margin: 0;
+    }
+    .follow_us_h {
+        margin-bottom: 10px;
+    }
+}
+
+/**** Min-Width: 768px and Max-Width: 991px CSS ****/
+
+@media(min-width:768px) and (max-width:991px){
+
+    p{
+        font-size: 14px;
+    }
+    .h4div h4{
+        font-size: 15px;
+    }
+    .services p:nth-child(3) {
+        font-size: 12px;
+        font-weight: 500;
+        margin-top: 10px;
+    }
+    .dpa_right h5 {
+        color: #363636;
+        font-weight: 600;
+        font-size: 21px;
+    }
+    .dpa_right h2 {
+        text-align: center;
+        font-size: 34px;
+    }
+    .p768{
+        text-align: center;
+    }
+    header .header_icon i {
+        font-size: 18px;
+    }
+    .pricing h1 {
+        font-size: 32px;
+    }
+    .h_contacts1 {
+        display: initial;
+    }
+    header .header_contact p {
+        font-size: 7pt;
+    }
+    header {
+        padding: 10px 0px;
+    }
+    header .logo {
+        width: 85%;
+    }
+    .align768{
+        align-items: center;
+    }
+
+    header .header_contact h5 {
+        font-size: 10pt;
+    }
+    .pheading h2 {
+        font-size: 26px;
+    }
+    .doctors1 {
+        max-width: 40%;
+        left: 0%;
+        display: none;
+    }
+    .dpa_right {
+        margin: auto;
+        width: 75%;
+    }
+    .form_submit {
+        width: 100%;
+        display: initial;
+    }
+    .form-control {
+        border-right: 2px solid #252525 ;
+    }
+    .sign_up {
+        margin-top: 20px;
+    }
+    input[type="submit"] {
+        padding: 8px 15px;
+        font-size: 15px;
+    }
+    .tfollow h3 {
+        font-size: 18px;
+    }
+    .social_signs ul {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .social_signs li {
+        margin-right: 10px;
+        margin-left: 0;
+    }
+    .clientdiv1 {
+        max-width: 95px;
+    }
+    .happy_clients .common_heading p {
+        font-size: 13px;
+    }
+    .slider .h2 {
+        width: fit-content;
+    }
+    .slider h1 {
+        font-size: 28px;
+    }
+    .slider_left {
+    padding: 0px 0px;
+    }
+    .slider_left .btn-1 {
+        padding: 8px 12px;
+        font-size: 13px;
+    }
+    .slider_left .btn-2 {
+        padding: 8px 12px;
+        font-size: 13px;
+    }
+    .slider h2 {
+        font-size: 22px;
+    }
+    .slider p {
+        margin-bottom: 25px;
+    }
+    .services_d .services_h h4 {
+        font-size: 20px;
+        font-weight: 600;
+        transition: 0.4s all ease-in-out;
+    }
+    .slider_full .owl-prev span {
+        display: none;
+    }
+    .slider_full .owl-next span {
+        display: none;
+    }
+    .align768 .col-md-5 {
+        padding-left: 0;
+    }
+    .slider .h1 {
+        width: fit-content;
+    }
+    .dna_disable {
+        display: inherit;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .teethdiv {
+        width: 17%;
+    }
+    .dental {
+        margin-bottom: 15px;
+    }
+    li.nav-item:nth-child(1) {
+        padding: 0px;
+    }
+    .navbar i.fas.fa-bars {
+        font-size: 22px;
+        color: #ffff;
+    }
+    .navbar-toggler:focus{
+        border: 2px solid #ffff;
+        box-shadow: none;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #ffff;
+        margin: 3px 8px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+        width: fit-content;
+        margin: auto;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        width: fit-content;
+        margin: auto;
+    }
+    li.nav-item:nth-child(1) {
+        padding: initial;
+    }
+    ul.appointment {
+        padding: 15px;
+        margin-top: 15px;
+        width: 100%;
+    }
+    .appointment li {
+        transform: skew( 
+    0deg
+        , 
+    0deg
+        );
+        font-size: 16px;
+    }
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+        justify-content: flex-end;
+    }
+    ul.navbar-nav {
+        text-align: center;
+    }
+    ul.appointment {
+        transform: skew(
+    -0
+    , 
+    180deg
+    );
+        text-align: center;
+    }
+    .appointment li {
+        transform: skew( 
+    0deg
+        , 
+    0deg
+        );
+    }
+    .navbar-toggler {
+        border: 2px solid transparent;
+    }
+    li.nav-item {
+        margin-top: 13px;
+    }
+    .service1:hover {
+        border-left: none;
+        padding: 0;
+        border-bottom: 5px solid #f69165;
+    }
+    .slider_full {
+        min-height: 70vh;
+    }
+    .slider_full .owl-dots {
+        top: 120%;
+    }
+    .service1 {
+        border-left: none;
+        border-bottom: 5px solid transparent;
+        transition: 1s all ease-in-out;
+        height: 85%;
+    }
+    .services_img {
+        width: 30%;
+        margin-right: 12px;
+    }
+    .follow_us_icons ul li:nth-child(1) {
+        margin: 0;
+    }
+    .top_footer_form {
+        display: inherit;
+    }
+    .follow_us_icons {
+        margin-top: 10px;
+    }
+    .left_item {
+        display: inherit;
+        margin-bottom: 30px;
+    }
+    .recent_post {
+        display: inherit;
+    }
+    .post_man img {
+        width: 65px;
+    }
+    .top_footer_left_icon {
+        margin-bottom: 7px;
+    }
+    .post_man {
+        margin-bottom: 7px;
+    }
+    .owl-carousel .owl-item img {
+        width: 65%;
+    }
+}
+
+ @media(min-width:0px) and (max-width:767px){
+
+    .dental {
+        margin-bottom: 20px;
+    }
+    .top_footer_left {
+        margin-bottom: 20px;
+    }
+    .top_footer_middle {
+        margin-bottom: 20px;
+    }
+    .tfollow h3 {
+        color: #ffff;
+        font-size: 25px;
+    }
+    .dna_disable {
+        display: inherit;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .pricing_table {
+        margin-bottom: 30px;
+    }
+    .our_services .pb-3 {
+        padding-bottom: 0rem!important;
+        margin: auto;
+    }
+    .doctors {
+        border-bottom: 5px solid #00CCE1;
+        transition: .5s ease-in-out;
+        margin-bottom: 30px;
+    }
+    .our_doctors .pb-4{
+        padding-bottom: 0rem!important;
+    }
+    .our_doctors .pb-5 {
+        padding-bottom: 0rem!important;
+    }
+    .doctors1 {
+        display: none;
+    }
+    .services p {
+        font-size: 16px;
+    }
+    .dpa {
+        padding: 9% 0% 5%;
+        text-align: center;
+    }
+    .slider_left {
+        text-align: -webkit-center;
+    }
+    .slider .h2 {
+        padding: 10px 15px;
+    }
+    .slider .h1 {
+        margin-bottom: 18px;
+        padding: 15px 15px;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: #ecf8f9;
+        margin: 4px 8px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+   .navbar-toggler {
+        border: 2px solid transparent;
+    }
+    .owl-carousel .owl-item img {
+        width: 75%;
+    }
+}
+
+/**** Min-Width: 0px and Max-Width: 767px CSS ****/
+
+@media(min-width: 0px) and (max-width: 767px){
+
+    .lisadoe1{
+        display: initial;
+    }
+    .lisadoe2{
+        display: none;
+    }
+    .rootcanal1{
+        display: inherit;
+    }
+    .rootcanal2{
+        display: none;
+    }
+
+    /**** Header CSS ****/
+
+    header .h_contacts {
+        display: none;
+    }
+    header .logo {
+        width: fit-content;
+        margin: auto;
+    }
+
+    /**** Navbar CSS ****/
+
+    li.nav-item {
+        margin-top: 15px;
+    }
+    li.nav-item:nth-child(1) {
+        padding: 0px;
+    }
+    .navbar i.fas.fa-bars {
+        font-size: 23px;
+        color: #ffff;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #ffff;
+        margin: 3px 8px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 15px;
+        width: fit-content;
+        margin: auto;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        width: fit-content;
+        margin: auto;
+    }
+    ul.appointment {
+        margin-top: 15px;
+    }
+    .appointment li {
+        transform: skew( 
+    0deg
+        , 
+    0deg
+        );
+        font-size: 16px;
+    }
+    .navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+        justify-content: flex-end;
+    }
+    ul.navbar-nav {
+        text-align: center;
+    }
+    ul.appointment {
+        transform: skew(
+    -0
+    , 
+    180deg
+    );
+        text-align: center;
+    }
+    .navbar-toggler {
+        border: 2px solid transparent;
+    }
+
+    /**** Full Slider CSS ****/
+
+    .slider_full {
+        background-position: left;
+    }
+    .slider h1 {
+        font-size: 30px;
+    }
+    .slider_left .btn-2 {
+        padding: 7px 12px;
+    }
+    .slider_left .btn-1 {
+        font-size: 14px;
+        padding: 7px 12px;
+    }
+    .slider_left .h1 {
+        padding: 8px 15px;
+        width: fit-content;
+    }
+    .slider_left .btn-2 {
+        margin-left: 0px;
+        font-size: 15px;
+        padding: 10px 14px;
+        margin-left: 7px;
+    }
+    .slider_left .btn-1 {
+        margin-left: 0px;
+        font-size: 15px;
+        padding: 10px 12px;
+    }
+    .slider_full .owl-dots{
+        top: 120%;
+    }
+    .slider_full .owl-dot span{
+        width: 8px;
+        height: 8px;
+    }
+    .slider_left .btn-1 {
+        padding: 9px 16px;
+    }
+    .slider_left .btn-2 {
+        padding: 9px 16px;
+    }
+    .slider_full .owl-prev span {
+        display: none;
+        padding: 0px 15px;
+        font-size: 25px;
+    }
+
+    .slider_full .owl-next span {
+        display: none;
+        padding: 0px 15px;
+        font-size: 25px;
+    }
+
+    /**** Digital Plus Agency CSS ****/
+
+    .dpa_right {
+        margin: auto;
+    }
+    .doctors1 {
+        display: none;
+    }
+    .dpa_right h2 {
+        font-size: 30px;
+    }
+
+    /**** Meet Our Doctors CSS ****/
+
+    .our_doctors .pb-4{
+        padding-bottom: 0rem!important;
+    }
+    .m_auto320{
+        margin: auto;
+    }
+
+    /**** Our Services CSS ****/
+
+    .services {
+    margin-bottom: 15px;
+    }
+    .services_h h4 {
+        font-size: 25px;
+    }
+    .services_img {
+    width: 27%;
+    }
+
+    /**** Happy Clients CSS ****/
+
+    section.happy_clients {
+        padding: 12% 5%;
+    }
+    .all_clients .owl-carousel .owl-item img {
+        width: 70%;
+    }
+    .all_clients .owl-prev span {
+        width: 25px;
+        height: 25px;
+        line-height: 20px;
+        padding-left: 7px;
+        font-size: 30px;
+        left: -5%;
+    }
+    .all_clients .owl-next span {
+        width: 25px;
+        height: 25px;
+        line-height: 20px;
+        font-size: 30px;
+        right: -5%;
+    }
+
+    /**** Top Footer CSS ****/
+
+    .top_footer_icon{
+        width: 8%;
+    }
+    .top_footer_icon i{
+        font-size: 25px;
+    }
+    .top_footer_left {
+        margin-bottom: 25px;
+    }
+    .top_footer_middle{
+        margin-bottom: 25px;
+    }
+    .post_man img{
+        width: 65px;
+    } 
+    .follow_us_icons ul li {
+        margin-left: 20px;
+    }
+    .follow_us_icons i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .follow_us_h h3 {
+        font-size: 25px;
+    }
+    .top_footer {
+        padding: 50px 0px 50px;
+    }
+    .social_signs li {
+        margin-left: 9px;
+    }
+    .social_signs i {
+        font-size: 15px;
+    }
+    .form-control {
+        padding: 12px 15px;
+    }
+    .top_footer_right {
+        text-align: -webkit-center;
+    }
+    .left_item {
+        display: inherit;
+        margin-bottom: 20px;
+    }
+    .top_footer p {
+        font-size: 16px;
+    }
+    .recent_post {
+        display: flow-root;
+        align-items: flex-start;
+        margin-bottom: 20px;
+    }
+    .follow_us_icons ul {
+        justify-content: center;
+    }
+    .top_footer_left_icon {
+        margin-bottom: 5px;
+    }
+    .post_man {
+        margin-bottom: 7px;
+    }
+    
+}
+
+/**** Min-Width: 0px and Max-Width: 575px CSS ****/
+
+@media(min-width: 0px) and (max-width: 575px){
+
+    /**** Navbar CSS ****/
+
+    .navbar-light .navbar-toggler {
+        margin: 3px 8px;
+    }
+    .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+        width: fit-content;
+        margin: auto;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    ul.navbar-nav {
+        text-align: center;
+    }
+    .navbar-toggler {
+        border: 2px solid transparent;
+    }
+    nav.navbar.navbar-expand-lg.navbar-light {
+        padding: 0;
+    }
+
+    /**** Full Slider CSS ****/
+
+    .slider_full {
+        min-height: 70vh;
+    }
+    .slider {
+        text-align: center;
+    }
+    .slider_left{
+        padding: 0px 30px;
+    }
+    .slider h2 {
+        font-size: 21px;
+    }
+    .slider h1 {
+        font-size: 31px;
+    }
+    .slider_left .btn-2 {
+        padding: 7px 12px;
+    }
+    .slider_left .h1 {
+        margin-bottom: 18px;
+    }
+    .slider_left .btn-2 {
+        padding: 10px 14px;
+    }
+    .slider_left .btn-1 {
+        padding: 10px 12px;
+    }
+    .slider_full .owl-dots{
+        top: 108%;
+    }
+
+    /**** Digital Plus Agency CSS ****/
+
+    .doctors1 {
+        display: none;
+    }
+
+    /**** Meet Our Doctors CSS ****/
+
+    .m_auto320{
+        margin: auto;
+    }
+
+    /**** Our Services CSS ****/
+
+    .services {
+        margin-bottom: 20px;
+        padding: 25px 15px;
+    }
+    .services_h h4 {
+        font-size: 20px;
+    }
+    .services_img {
+        margin-right: 10px;
+        width: 12%;
+    }
+
+    /**** Happy Clients CSS ****/
+
+    .all_clients .owl-carousel .owl-item img {
+        width: 70%;
+    }
+    .all_clients .owl-prev span {
+        width: 25px;
+        height: 25px;
+        line-height: 20px;
+        padding-left: 0px;
+        font-size: 30px;
+        left: -5%;
+    }
+    .all_clients .owl-next span {
+        width: 25px;
+        height: 25px;
+        line-height: 20px;
+        font-size: 30px;
+        right: -5%;
+    }
+
+    /**** Top Footer CSS ****/
+
+    .dental_plus_contacts {
+        justify-content: center;
+    }
+    .top_footer_icon{
+        width: 8%;
+    }
+    .top_footer_icon i{
+        font-size: 25px;
+    }
+    .top_footer_left_icon {
+        margin-bottom: 8px;
+    }
+    .top_footer_left {
+        margin-bottom: 25px;
+    }
+    .top_footer_middle{
+        margin-bottom: 25px;
+    }
+    .post_man {
+        margin-bottom: 8px;
+    }
+    .post_man img{
+        width: 95px;
+    }
+    .top_footer {
+        text-align: -webkit-center;
+    }
+    .social_signs li {
+        margin-left: 9px;
+    }
+    .social_signs i {
+        font-size: 15px;
+    }
+}
+
+/**** Min-Width: 0px and Max-Width: 425px CSS ****/
+
+@media(min-width: 0px) and (max-width: 425px){
+    p{
+        font-size: 15px;
+    }
+    
+    /**** Header CSS ****/
+    
+    header .h_contacts {
+        display: none;
+    }
+
+    /**** Navbar CSS ****/
+
+    .navbar i.fas.fa-bars {
+        font-size: 20px;
+    }
+
+    /**** Full Slider CSS ****/
+
+    .slider h2 {
+        font-size: 19px;
+    }
+    .slider h1 {
+        font-size: 25px;
+    }
+    .slider_left .btn-2 {
+        padding: 7px 12px;
+    }
+    .slider_left .btn-1 {
+        font-size: 14px;
+        padding: 7px 12px;
+    }
+    .slider_full {
+        min-height: 65vh;
+    }
+    .slider {
+        text-align: center;
+    }
+    .slider_left{
+        padding: 0px 20px;
+    }
+    .slider_left .h1 {
+        margin-bottom: 18px;
+    }
+    .slider_full .owl-dots{
+        top: 108%;
+    }
+    .slider_full .owl-dot span{
+        width: 7px;
+        height: 7px;;
+    }
+
+    /**** Digital Plus Agency CSS ****/
+
+    .service1{
+        border-left: none;
+    }
+    .service1:hover {
+        padding: 0;
+        border-left: none;   
+    }
+
+    /**** Our Services CSS ****/
+
+    .services {
+        margin-bottom: 20px;
+        padding: 15px 15px;
+    }
+    .services_h h4 {
+        font-size: 20px;
+    }
+    .services_img {
+        width: 15%;
+        margin-right: 12px;
+    }
+
+    /**** Happy Clients CSS ****/
+
+    .all_clients .owl-prev span {
+        width: 21px;
+        height: 21px;
+        line-height: 16px;
+        padding-left: 6px;
+        font-size: 28px;
+        left: -5%;
+    }
+    .all_clients .owl-next span {
+        width: 21px;
+        height: 21px;
+        line-height: 16px;
+        font-size: 28px;
+        right: -5%;
+    }
+
+    /**** Top Footer CSS ****/
+
+    .top_footer {
+        padding: 35px 0px 35px;
+    }
+    .top_footer_icon{
+        width: 8%;
+    }
+    .top_footer_icon i{
+        font-size: 25px;
+    }
+    .top_footer_left_icon i {
+        margin-bottom: 10px;
+    }
+    .post_man {
+        margin-bottom: 7px;
+    }
+    .dental_plus_contacts {
+        justify-content: center;
+    }
+    .top_footer_middle{
+        margin-bottom: 25px;
+    }
+    .post_man img{
+        width: 95px;
+    } 
+    .follow_us_icons ul li:nth-child(1){
+        margin-left: 0px;
+    }
+    .follow_us_icons i {
+        width: 33px;
+        height: 33px;
+        line-height: 33px;
+    }
+\\
+    .follow_us_h h3 {
+        font-size: 20px;
+    }   
+}
+
+/**** Min-Width: 0px and Max-Width: 375px CSS ****/
+
+@media(min-width: 0px) and (max-width: 375px){
+    
+    /**** Header CSS ****/
+    
+    header .h_contacts {
+        display: none;
+    }
+
+    /**** Full Slider CSS ****/
+
+    .slider h2 {
+        font-size: 18px;
+    }
+    .slider h1 {
+        font-size: 20px;
+    }
+    .slider_left .btn-2 {
+        padding: 7px 12px;
+    }
+    .slider_left .btn-1 {
+        font-size: 14px;
+        padding: 7px 12px;
+    }
+    .slider_full {
+        min-height: 65vh;
+    }
+    .slider {
+        text-align: center;
+    }
+    .slider_left{
+        padding: 0px 20px;
+    }
+    .slider_left .h1 {
+        margin-bottom: 18px;
+    }
+    .slider_full .owl-dots{
+        top: 108%;
+    }
+    .slider_full .owl-dot span{
+        width: 7px;
+        height: 7px;;
+    }
+
+    /**** Digital Plus Agency CSS ****/
+
+    .service1{
+        border-left: none;
+    }
+    .service1:hover {
+        padding: 0;
+        border-left: none;   
+    }
+
+    /**** Our Services CSS ****/
+
+    .services {
+        margin-bottom: 20px;
+        padding: 15px 15px;
+    }
+    .services_h h4 {
+        font-size: 20px;
+    }
+    .services_img {
+        width: 20%;
+        margin-right: 12px;
+    }
+
+    /**** Happy Clients CSS ****/
+
+    .all_clients .owl-prev span {
+        width: 21px;
+        height: 21px;
+        line-height: 16px;
+        padding-left: 6px;
+        font-size: 28px;
+        left: -5%;
+    }
+    .all_clients .owl-next span {
+        width: 21px;
+        height: 21px;
+        line-height: 16px;
+        font-size: 28px;
+        right: -5%;
+    }
+
+    /**** Top Footer CSS ****/
+
+    .top_footer_icon{
+        width: 8%;
+    }
+    .top_footer_icon i{
+        font-size: 25px;
+    }
+    .top_footer_left{
+        margin-bottom: 20px;
+    }
+    .top_footer_middle{
+        margin-bottom: 25px;
+    }
+    .post_man img{
+        width: 95px;
+    } 
+    .follow_us {
+        display: inherit;
+    }
+}
+
+/**** Min-Width: 0px and Max-Width: 320px CSS ****/
+
+@media(min-width: 0px) and (max-width: 320px){
+    p{
+        font-size: 14px;
+    }
+    
+    /**** Full Slider CSS ****/
+
+    .slider h2 {
+        font-size: 18px;
+    }
+    .slider h1 {
+        font-size: 20px;
+    }
+    .slider_left .btn-2 {
+        padding: 7px 12px;
+    }
+    .slider_left .btn-1 {
+        font-size: 14px;
+        padding: 7px 12px;
+    }
+    .slider_full {
+        min-height: 65vh;
+    }
+    .slider {
+        text-align: center;
+    }
+    .slider_left{
+        padding: 0px 20px;
+    }
+    .slider_left .h1 {
+        margin-bottom: 18px;
+    }
+    .slider_full .owl-dots{
+        top: 108%;
+    }
+    .slider_full .owl-dot span{
+        width: 7px;
+        height: 7px;;
+    }
+
+    /**** Digital Plus Agency CSS ****/
+
+    .service1{
+        border-left: none;
+    }
+    .service1:hover {
+        padding: 0;
+        border-left: none;   
+    }
+
+    /**** Our Services CSS ****/
+
+    .services {
+        margin-bottom: 20px;
+        padding: 15px 15px;
+    }
+    .services_h h4 {
+        font-size: 20px;
+    }
+    .services_img {
+        width: 20%;
+        margin-right: 12px;
+    }
+
+    /**** Happy Clients CSS ****/
+
+    .all_clients .owl-prev span {
+        width: 21px;
+        height: 21px;
+        line-height: 16px;
+        padding-left: 6px;
+        font-size: 28px;
+        left: -5%;
+    }
+    .all_clients .owl-next span {
+        width: 21px;
+        height: 21px;
+        line-height: 16px;
+        font-size: 28px;
+        right: -5%;
+    }
+
+    /**** Top Footer CSS ****/
+
+    .top_footer {
+        padding: 35px 0px 35px;
+    }
+    .top_footer_icon{
+        width: 8%;
+    }
+    .top_footer_icon i{
+        font-size: 25px;
+    }
+    .top_footer_left{
+        margin-bottom: 20px;
+    }
+    .top_footer_middle{
+        margin-bottom: 25px;
+    }
+    .post_man img{
+        width: 95px;
+    } 
+    .follow_us {
+        display: inherit;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 35px;
+    }
+    .follow_us_icons ul li {
+        margin-left: 7px;
+    }
+    .follow_us_icons ul li:nth-child(1){
+        margin-left: 0px;
+    }
+    .follow_us_icons i {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+    }
+    .follow_us_h {
+        margin-bottom: 10px;
+    }
+    .follow_us_h h3 {
+        font-size: 20px;
+    }   
+}
